@@ -1,0 +1,2 @@
+rtx3060: grafica1.jpg
+rtx3070: grafica2.jpg
